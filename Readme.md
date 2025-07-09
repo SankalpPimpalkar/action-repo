@@ -8,3 +8,4 @@
 5. Backend crashed due to serialization issues of timezone for mongodb document
 6. Backend issue resolved
 7. Configured tailwindcss into vite app for styling components
+8. `/webhook/events` route is successfully running. Moving on to the UI design. 
