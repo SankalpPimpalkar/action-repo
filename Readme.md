@@ -6,3 +6,5 @@
 3. Setting Up react app for UI 
 4. Backend crashed due to deprecated datetime utc function
 5. Backend crashed due to serialization issues of timezone for mongodb document
+6. Backend issue resolved
+7. Configured tailwindcss into vite app for styling components
