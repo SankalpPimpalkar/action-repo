@@ -5,3 +5,4 @@
 2. Creating a react vite template for UI. I am planning to use a bundled react app as template for '/' route
 3. Setting Up react app for UI 
 4. Backend crashed due to deprecated datetime utc function
+5. Backend crashed due to serialization issues of timezone for mongodb document
